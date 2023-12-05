@@ -1,4 +1,4 @@
-# sachinezade
+
 ![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)
 <h1 align="center">Hi :wave:, I'm Your namey</h1>
 <h3 align="center">A passionate automation tester from India.</h3>
