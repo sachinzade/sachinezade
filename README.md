@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manjanagowda&label=Profile%20views&color=0e75b6&style=flat" alt="Manjanagowda" /> </p>
 - :seedling: I’m currently learning RestAssured and  Mobile Testing using Appium etc.
 <br>
-- :speech_balloon: Ask me about Java,Selenium,Postman,Manual Testing .
+- :speech_balloon: Ask me about Java, Selenium, REST Assuered, Postman, Appium, Mobile Automation Testing, Manual Testing .
 <br>
 - :mailbox: How to reach me szade50@gmail.com
 - :page_facing_up: Know about my experiences [(https://drive.google.com/file/d/1K0mEXV86a17NR70H4lYiqGAEt_6LtX5H/view?usp=sharing)]
